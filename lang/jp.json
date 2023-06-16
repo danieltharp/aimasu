@@ -1,0 +1,51 @@
+{
+  "Dashboard": "ダッシュボード",
+  "You're logged in!": "ログインしました！",
+  "Confirm": "確認",
+  "This is a secure area of the application. Please confirm your password before continuing.":
+    "これはアプリケーションの安全な領域です。続行する前にパスワードを確認してください。",
+  "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.":
+    "パスワードを忘れましたか？問題ありません。メールアドレスをお知らせください。パスワードをリセットするリンクをメールでお送りします。新しいパスワードを選択できます。",
+  "Send Password Reset Email": "パスワードリセットのメールを送信する",
+  "Remember me": "私を覚えてます",
+  "Forgot your password?": "パスワードを忘れましたか？",
+  "Log in": "ログイン",
+  "Already registered?": "すでに登録済みですか？",
+  "Register": "登録",
+  "Reset Password": "パスワードを再設定する",
+  "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.":
+    "登録していただきありがとうございます！始める前に、メールで送信したリンクをクリックしてメールアドレスを確認していただけますか？メールが届かなかった場合は、別のメールを送信します。",
+  "A new verification link has been sent to the email address you provided during registration.":
+    "新しい確認リンクが、登録時に提供したメールアドレスに送信されました。",
+  "Resend Verification Email": "確認メールを再送信する",
+  "Log Out": "ログアウト",
+  "Profile": "プロフィール",
+  "Delete Account": "アカウントを削除する",
+  "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.":
+    "アカウントを削除すると、そのすべてのリソースとデータが永久に削除されます。アカウントを削除する前に、保持したいデータや情報をダウンロードしてください。",
+  "Are you sure you want to delete your account?":
+    "アカウントを削除してもよろしいですか？",
+  "Password": "パスワード",
+  "Cancel": "キャンセル",
+  "Update Password": "パスワードを更新する",
+  "Ensure your account is using a long, random password to stay secure.":
+    "アカウントが安全になるように、長くランダムなパスワードを使用していることを確認してください。",
+  "Save": "保存",
+  "Saved.": "保存しました。",
+  "Profile Information": "プロフィール情報",
+  "Update your account's profile information and email address.":
+    "アカウントのプロフィール情報とメールアドレスを更新します。",
+  "Your email address is unverified.":
+    "メールアドレスは確認されていません。",
+  "Click here to re-send the verification email.":
+    "確認メールを再送信するにはここをクリックしてください。",
+  "A new verification link has been sent to your email address.":
+    "新しい確認リンクがメールアドレスに送信されました。",
+  "Email": "メール",
+  "Name": "名前",
+  "Confirm Password": "パスワードを認証する",
+  "Current Password": "現在のパスワード",
+  "New Password": "新しいパスワード",
+  "We can't find a user with that email address.":
+    "そのメールアドレスのユーザーが見つかりません。",
+}
