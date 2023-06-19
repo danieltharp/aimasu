@@ -29,6 +29,8 @@ class AuthenticatedSessionController extends Controller
 
         $request->session()->regenerate();
 
+        session(['locale' => Auth::user()->locale]);
+
         return redirect()->intended(RouteServiceProvider::HOME);
     }
 

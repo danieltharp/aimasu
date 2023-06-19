@@ -29,8 +29,12 @@ Route::middleware('auth')->group(function () {
 });
 
 Route::get('/set-locale/{locale}', function ($locale) {
+    app()->setLocale($locale);
     session(['locale' => $locale]);
+    if (auth()->check()) {
+        auth()->user()->update(['locale' => $locale]);
+    }
     return redirect()->back();
-})->name('set-locale');
+});
 
 require __DIR__.'/auth.php';
